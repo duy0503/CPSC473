@@ -1,0 +1,11 @@
+{
+  "name": "assignemnt3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.14",
+	"bluebird": "^3.3.5",
+    "body-parser": "^1.15.0"
+  }
+}
